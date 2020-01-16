@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #local_bash_directory="./out"
-local_bash_directory="~"
+local_bash_directory=($HOME)
 bashrc_file="$local_bash_directory/.bashrc"
 bashrc_file_old="$local_bash_directory/.bashrc.old"
 
