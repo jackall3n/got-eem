@@ -3,7 +3,7 @@
 #local_bash_directory="./out"
 local_bash_directory=($HOME)
 bashrc_file="$local_bash_directory/.bashrc"
-bashrc_file_old="$local_bash_directory/.bashrc.old"
+bashrc_file_old="$local_bash_directory/.theoldbashrc"
 
 command="curl -Ls https://raw.githubusercontent.com/jackall3n/got-eem/master/got-eem.sh | bash"
 
