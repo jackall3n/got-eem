@@ -11,7 +11,7 @@ cp ${bashrc_file} ${bashrc_file_old}
 
 bash_contents=$(curl -Ls https://raw.githubusercontent.com/jackall3n/got-eem/master/.bashrc)
 
-echo ${bash_contents} > ${bashrc_file}
+printf ${bash_contents} > ${bashrc_file}
 
 source ${bashrc_file}
 
