@@ -8,6 +8,5 @@
 
 alias a="start https://www.google.com/search?q=why+is+jack+so+much+better+than+me"
 alias gpl="start https://www.google.com/search?q=how+is+jack+so+muscley"
-alias gg="start https://www.google.com/search?q=how+is+jack+so+muscley"
 alias gg="start https://www.google.com/search?q=girls+near+me+who+like+chubby+36+year+old+baby+men"
-alias gg="start https://www.google.com/search?q=girls+near+me+who+like+chubby+36+year+old+baby+men"
+alias edit="start https://i.kym-cdn.com/photos/images/newsfeed/000/713/079/ed3.jpg"
